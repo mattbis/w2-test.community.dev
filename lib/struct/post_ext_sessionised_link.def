@@ -1,1 +1,6 @@
 # this is all the gumpf we dont want.. but can warn.. 
+
+w2_community_ext_link_def = 
+## this checks anything non standard... by defining it... probably 
+
+### ie by including this you get a warning about this url contains a load of stupid stuff.. 
